@@ -11,7 +11,7 @@ Une application web de gestion de tâches intuitive et efficace, construite avec
 -  **Dates d'échéance** - Suivi des deadlines
 -  **Statut des tâches** - Marquer comme terminée ou en cours
 -  **Filtrage** - Afficher toutes, actives ou terminées
--  **Persistance SQLite** - Données stockées localement de manière sécurisée
+-  **Persistance MongoDB** - Données stockées localement de manière sécurisée
 -  **Responsive** - Fonctionne sur desktop et mobile
 
 ##  Technologies

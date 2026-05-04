@@ -16,7 +16,7 @@ Une application web de gestion de tâches intuitive et efficace, construite avec
 
 ##  Technologies
 
-- **Frontend** : HTML5, CSS3, JavaScript
+- **Frontend** : HTML, CSS
 - **Backend** : Python (Flask)
 - **Base de données** : SQLite
 - **Design** : Interface minimaliste et moderne

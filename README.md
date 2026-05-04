@@ -18,7 +18,7 @@ Une application web de gestion de tâches intuitive et efficace, construite avec
 
 - **Frontend** : HTML, CSS
 - **Backend** : Python (Flask)
-- **Base de données** : SQLite
+- **Base de données** : MongoDB
 - **Design** : Interface minimaliste et moderne
 
 ## 🚀 Installation
